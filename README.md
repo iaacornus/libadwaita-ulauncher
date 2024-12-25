@@ -1,4 +1,4 @@
-# `ulauncher-theme-libadwaita-dark`
+# `libadwaita-ulauncher`
 
 A Ulauncher dark theme based on named colors of adwaita ([ADW](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.2/named-colors.html#window-colors)) named colors.
 

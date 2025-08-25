@@ -2,7 +2,7 @@
  * App Window
  */
 @define-color window_shadow rgba(255, 255,255, 0.5);
-@define-color window_bg rgb(36,36,36);
+@define-color window_bg rgb(29,29,32);
 @define-color prefs_backgroud rgba(255,255,255,0.08);
 
 /**
